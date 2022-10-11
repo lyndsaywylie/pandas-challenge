@@ -1,0 +1,17 @@
+One very clear trend is that charter schools performed significantly better than district schools. 
+
+Also, per grade math scores for 11th grade reading seemed extremely odd. How every school received  the exact same average 
+to the 6th decimal indicates 3 things: My code is wrong, they all coincidentally came to the exact same mean, or they all
+cheated and took the test together. 
+
+Another trend is the amount of spending budget per student. Charter schools are on the lower end of the spectrum, while
+district schools are on the higher end of the spectrum. I find that interesting when I dissect the average score and overall
+passing scores. You will see that charter schools have an overall higher passing percentage than district schools and that
+is due to the fact that the overall passing math scores are sigificantly better. However, when comparing the reading scores
+for charter versus district there is not much of difference. 
+
+One other trend we can deduce from the school size summary is that larger schools have a lower overall passing percentage.
+since we know that charter schools have a higher overall passing percentage largely due to the fact that they have better
+math scores, we can safely say that the larger schools are mainly, if not all, district schools 
+
+
